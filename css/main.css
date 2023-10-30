@@ -1,3 +1,7 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-dedaena-nonblock/css/bpg-dedaena-nonblock.min.css");
+
+
+
 .html{
     width: 223px;
     height: 58px;
@@ -69,9 +73,10 @@
     margin-top: 9px;
     margin-left: 50px;
     display: block;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 }
 .content{
-    width: 646px;
+    width: 680px;
     height: 34px;
     font-size: 24px;
     font-weight: 700;
@@ -80,6 +85,7 @@
     display:block;
     margin-top: 12px;
     margin-left: 50px;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
  
 }
 .code{
@@ -101,6 +107,7 @@ display: inline-block;
     margin-left: 40px;
     margin-top: 10px;
     vertical-align: top;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 
 }
 .purple-2{  background-color: #5012D5;
@@ -126,7 +133,9 @@ display: inline-block;
     color: #8D81FF;
     margin-top: 12px;
     margin-left: 50px;
-    display: block;}
+    display: block;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
+}
     .web-developer{width: 646px;
         height: 34px;
         font-size: 24px;
@@ -136,6 +145,7 @@ display: inline-block;
         display:block;
         margin-top: 12px;
         margin-left: 50px;
+        font-family: "BPG DedaEna Nonblock", sans-serif;
     }
 .tag{
     width: 447px;
@@ -155,6 +165,7 @@ display: inline-block;
     display: inline-block;
     vertical-align: top;
     margin-left: 50px;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 }
 .purple-3{ background-color: #5012D5;
     width: 50px;
@@ -179,7 +190,9 @@ display: inline-block;
     color: #8D81FF;
     margin-top: 12px;
     margin-left: 50px;
-    display: block;}
+    display: block;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
+}
 .development{
     width: 646px;
         height: 34px;
@@ -190,7 +203,8 @@ display: inline-block;
         display:block;
         margin-top: 12px;
         margin-left: 50px;
-}
+        font-family: "BPG DedaEna Nonblock", sans-serif;
+    }
 .laptop{
     width: 447px;
     height: 280px;
@@ -208,6 +222,7 @@ display: inline-block;
     display: inline-block;
     vertical-align: top;
     margin-left: 50px;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
     
 }
 .facebook{

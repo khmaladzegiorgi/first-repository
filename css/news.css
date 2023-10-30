@@ -1,3 +1,4 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-dedaena-nonblock/css/bpg-dedaena-nonblock.min.css");
 .html{
     width: 223px;
     height: 58px;
@@ -58,6 +59,7 @@
     line-height: 31.2px;
     color:#4E6FAE;
     display: inline-block;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 
 }
 #line{
@@ -76,6 +78,7 @@ vertical-align: middle;
     line-height: 31.2px;
     color: #4E6FAE;
     font-weight: 400;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 }
 #web-developers{
     width: 500px;
@@ -93,7 +96,7 @@ vertical-align: middle;
     font-size: 20px;
     line-height: 24.14px;
     font-weight: 400;
-    color: #3F4145;
+    color: #3F4145;font-family: "BPG DedaEna Nonblock", sans-serif;
 }
 .image{width: 77px;
 height: 77px;
@@ -111,6 +114,7 @@ display: inline-block;
     color: #7E8898;
     display: inline-block;
     padding-left: 35px;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
 }
 .web-adress{
     width: 500px;
@@ -128,7 +132,9 @@ top: 818px;
     font-size: 20px;
     line-height: 24.14px;
     font-weight: 400;
-    color: #3F4145;}
+    color: #3F4145;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
+}
     
 .circle{width: 77px;
     height: 77px;
@@ -146,6 +152,7 @@ top: 818px;
     display: inline-block;
     padding-top: 10px;
     padding-left: 35px;
+    font-family: "BPG DedaEna Nonblock", sans-serif;
  }
  .facebook{
     width: 50px;
