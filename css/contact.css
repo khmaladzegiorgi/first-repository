@@ -1,0 +1,121 @@
+.html{
+    width: 223px;
+    height: 58px;
+    position: absolute;
+    top: 25px;
+    left: 50px;
+    display: inline-block;
+}
+.main{
+    display: inline-block;
+    width: 115px;
+    height: 25px;
+    margin-top: 45px;
+    margin-left: 400px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #8D81FF;
+    text-decoration: none;
+}
+
+.news{
+    width: 150px;
+    height: 34px;
+    text-decoration: none;
+    margin-top: 45px;
+    margin-left: 100px;
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 700;
+    color:#8D81FF;
+
+}
+.contact{
+    width: 133px;
+    height: 34px;
+    text-decoration: none;
+    margin-top: 45px;
+    margin-left: 100px;
+    font-size: 26px;
+    font-weight: 700;
+    color:#4E6FAE;
+    display: inline-block;}
+    #information{
+        width: 1660px;
+        height: 735px;
+        background-color: #E7E7E7;
+        margin-top: 35px;
+    }
+    .contact-information{
+        width: 474px;
+        height: 34px;
+        font-size: 36px;
+        font-weight: 700;
+        color: #4E6FAE;
+        padding-top: 145px;
+        padding-left: 200px;
+        
+    }
+    .adress{
+        font-size: 20px;
+        font-weight: 400;
+        position: absolute;
+       padding-top: 35px;
+        color: #7E8898;
+        padding-left: 200px;
+
+    }
+    .information{font-size: 20px;
+        font-weight: 400;
+        position: absolute;
+        padding-top: 35px;
+        padding-left: 308px;
+        color: #3F4145;}
+    .phone{ font-size: 20px;
+        font-weight: 400;
+        position: absolute;
+        padding-left: 200px;
+        padding-top: 70px;
+        color: #7E8898;}
+        #number{font-size: 20px;
+            font-weight: 400;
+            position: absolute;
+           padding-left: 255px;
+           padding-top: 70px;
+            color: #3F4145;
+    
+        }
+        .email{font-size: 20px;
+            font-weight: 400;
+            position: absolute;
+           padding-top: 110px;
+           padding-left: 200px;
+            color: #7E8898;}
+            .mail{font-size: 20px;
+                font-weight: 400;
+                position: absolute;
+                
+                padding-top: 110px;
+                padding-left: 310px;
+                color: #3F4145;}
+                .map{
+                    width: 944px;
+                    height: 549px;
+                    margin-top: -48px;
+                    margin-left: 681px;
+                }
+                .facebook{
+                    width: 50px;
+                    height: 50px;
+                    margin-top: 135px;
+                    margin-left: 150px;
+                    display: inline-block;
+                }
+                .line{width: 2px;
+                height: 48px;
+                background-color: #5012D5;
+                display: inline-block;
+                margin-left: 35px;}
+                .youtube{width: 71px;
+                height: 49px;
+                 margin-left: 35px;}
